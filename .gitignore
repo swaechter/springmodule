@@ -1,0 +1,9 @@
+# Build system
+target/
+
+# IDE from JetBrains
+.idea/
+*.iml
+
+# Generated content
+custom_jre/
